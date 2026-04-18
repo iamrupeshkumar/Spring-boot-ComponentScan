@@ -12,11 +12,11 @@ public class UserDao {
 		System.out.println("UserDao :: Constructor");
 	}
 	
-	@Bean
-	public AppSecurity createInstance() {
-		AppSecurity as = new AppSecurity();
-		// custom logic to secure our application
-		return as;
-	}
+//	@Bean
+//	public AppSecurity createInstance() {
+//		AppSecurity as = new AppSecurity();
+//		// custom logic to secure our application
+//		return as;
+//	}
 
 }
