@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class PasswordUtils {
 	
 	public PasswordUtils() {
-		System.out.println("PasswordUtils :: execution");
+		System.out.println("PasswordUtils :: Contructor");
 	}
 
 }
